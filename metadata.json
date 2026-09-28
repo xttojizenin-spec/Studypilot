@@ -1,0 +1,6 @@
+{
+  "name": "StudyPilot",
+  "description": "The official landing and download website for StudyPilot – an intelligent Android study companion for syllabus planning, focus sessions, topic tracking, and exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
